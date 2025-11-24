@@ -1,2 +1,0 @@
-step = noone;
-active = false;
